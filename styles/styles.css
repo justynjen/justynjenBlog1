@@ -107,7 +107,7 @@ h5{
 .about h3{
   font-size: 4.5rem;
   line-height: 0px;
-  left: 600px;
+  right: 547px;
   position: absolute;
   bottom: -112px;
 }
@@ -236,8 +236,8 @@ About text
   padding: 0;
 }
 .aboutText{
-  background-color: #02537d;
-  color: #7E787D;
+  color: white;
+  background-color: #0184a9;
 }
 /*
 BLOG
@@ -251,7 +251,8 @@ BLOG
   text-align: center;
 }
 .blogPosts{
-  background-color: #D3D3D3;
+  background-color: #02537d;
+  color: white;
   position: relative;
   bottom:27px;
   width: 180px;
@@ -315,7 +316,7 @@ Footer
 */
 
 footer {
-  background-color: #ECD7C8;
+  background-color: #0184a9;
   color: rgb(60,60,60);
   padding: 5%;
 }

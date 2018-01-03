@@ -107,7 +107,7 @@ h5{
 .about h3{
   font-size: 4.5rem;
   line-height: 0px;
-  left: 600px;
+  right: 547px;
   position: absolute;
   bottom: -112px;
 }
@@ -129,7 +129,7 @@ h5{
 }
 .textBox{
   position: relative;
-  background-color:#F6E9F3;
+  background-color:#02537d;
   padding: 8%;
   display: inline-block;
   text-align: center;
@@ -139,7 +139,7 @@ h5{
 }
 .textBox button{
   color: black;
-  background-color:#F6E9F3;
+  background-color:#02537d;
   padding: 3%;
   font-size: 1.3rem;
   border-radius: 4px;
@@ -175,12 +175,12 @@ h5{
   border: none;
 }
 .subscribe{
-  background-color: #DFD0E0;
+  background-color: white;
   padding: 3%;
   min-height: 20vh;
 }
 .subscribe button{
-  background-color: #F6E9F3;
+  background-color: #02537d;
   color: black;
   padding: 1%;
   font-size: 1.3rem;
@@ -236,8 +236,8 @@ About text
   padding: 0;
 }
 .aboutText{
-  background-color: #F6E9F3;
-  color: #7E787D;
+  color: white;
+  background-color: #0184a9;
 }
 /*
 BLOG
@@ -251,7 +251,8 @@ BLOG
   text-align: center;
 }
 .blogPosts{
-  background-color: #D3D3D3;
+  background-color: #02537d;
+  color: white;
   position: relative;
   bottom:27px;
   width: 180px;
@@ -277,7 +278,7 @@ FORM
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid #F6E9F3;
+  border:2px solid #02537d;
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -297,7 +298,7 @@ textarea {
 [type="submit"] {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
-  background:#F6E9F3;
+  background:#02537d;
   border-radius:5px;
   border:0;
   cursor:pointer;
@@ -309,13 +310,13 @@ textarea {
   margin-top:-4px;
   font-weight:700;
 }
-[type="submit"]:hover { background:#F6E9F3; }
+[type="submit"]:hover { background:#02537d; }
 /*
 Footer
 */
 
 footer {
-  background-color: #ECD7C8;
+  background-color: #0184a9;
   color: rgb(60,60,60);
   padding: 5%;
 }

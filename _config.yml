@@ -1,6 +1,30 @@
-# Site settings
-title: Justyn Jen
-email: justyngourdin@gmail.com
-descrription: A personal webpage for Justyn Gourdin. She shares ebooks, travel tips and you can hire her to build your blog and help you start your blog or online business.
-baseurl: ""
-url: "http://justynjen.com"
+categories:
+  - Travel
+  - Digital Nomad
+  - Work
+  - Countries
+  - Cities
+
+gems:
+  - jekyll-archives
+
+
+jekyll-archives:
+  enabled: all
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+      title: The Gourdins
+      banner-image: /images/aspens.jpg
