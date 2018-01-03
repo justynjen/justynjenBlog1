@@ -347,3 +347,82 @@ footer h5{
   text-align: center;
   font-size: 0.8rem;
 }
+/*
+hamburger menu
+*/
+.hamburger-menu {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+		background-color:rgb(240, 232, 220);
+    padding:3% 3% 10% 3%;
+		width: 465px;
+		text-align:center;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
+    z-index: 99999999;
+}
+.hamburger-menu a {
+  text-decoration: none;
+  font-size: 45px;
+	text-align: left;
+  font-weight: 300;
+	color:rgb(137, 99, 63);
+	font-family: 'Lato', sans-serif;
+  display:block;
+  padding:8px 15px;
+  white-space:nowrap;
+}
+.hamburger-menu a:hover{
+	color:rgb(223, 172, 129);
+}
+a.smallMenu {
+	font-size: 25px;
+	font-weight: lighter;
+}
+.hamburger-menu li{list-style:none}
+.hamburger-button {
+  position:fixed;
+  top: 2vh;
+  right: 2vh;
+  z-index: 9999999999;
+  padding: 12px;
+}
+.hamburger-button span{
+  width: 50px;
+  border: 2px solid rgba(90, 69, 44, 1);
+  background-color: black;
+  display: block;
+  border-radius: 22px;
+  transition: 2s;
+}
+.hamburger-top, .hamburger-bottom{
+  position: absolute;
+}
+.hamburger-top{
+  top: 02px;
+}
+.hamburger-bottom{
+  bottom: 02.5px;
+}
+.active .hamburger-top{
+   transform: rotateZ(45deg);
+  top:12px;
+  border-color:rgb(137, 99, 63);
+}
+.active .hamburger-bottom{
+   transform: rotateZ(-45deg);
+  bottom:12px;
+  border-color:rgb(137, 99, 63);
+}
+.active .hamburger-middle{
+  opacity:0;
+}
+a.socialIcon{
+	display:inline-block;
+	color: rgba(90, 69, 44, 1);
+}
+.sbIcon{
+	text-align: center;
+	}

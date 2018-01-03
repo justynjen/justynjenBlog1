@@ -210,7 +210,7 @@
 
       
 <footer class="grid">
-  <div class="col-4">
+  <div class="col-4_sm-12">
     <h5 class="verticleText shorelines"> follow </h5>
   <div class="verticalIcons">
     <ul>
@@ -221,7 +221,7 @@
     </ul>
   </div>
   </div>
-  <div class="col-4">
+  <div class="col-4_sm-12">
     <h5 class="verticleText shorelines"> explore </h5>
   <div class="verticalIcons">
     <ul class="footerLinks">
@@ -234,7 +234,7 @@
     </ul>
   </div>
   </div>
-  <div class="col-4">
+  <div class="col-4_sm-12">
     <h5 class="verticleText shorelines"> archive </h5>
   <div class="verticalIcons">
     <ul class="footerLinks">
@@ -252,16 +252,33 @@
 </div>
 
       
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
 
 <script>
-$('.mobile-menu-button').click(function() {
-  $('.mobile-menu-button').toggleClass("nav-open");
-  $('.mobile-nav').slideToggle(200, function() {
-    // Animation complete.
+function toggleMenu(){
+   $(".hamburger-menu").slideToggle();
+   $(".hamburger-button").toggleClass("active");
+ };
+
+function rotateCarousel() {
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    // nav-text["",""],
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
   });
-});
+}
 </script>
 
 <script>
