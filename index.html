@@ -41,6 +41,20 @@ banner-image_path: /images/instaTour.jpg
     <p>A traveling VA that has been on the road for over 2 years now. This blog contains loads of travel tips and tips on how you can digital nomad more, just like me! There are tons of great communities out there ready for you to join, as well as jobs just waiting for you to apply! Keep reading to learn more. </p>
   </div>
 </section>
+<section class="grid-middle goals">
+  <div class="col-4_sm-12 centered">
+    <h4 class="shorelines">Countries</h4>
+    <h4>51</h4>
+  </div>
+  <div class="col-4_sm-12 centered">
+    <h4 class="shorelines">Cities</h4>
+    <h4>400</h4>
+  </div>
+  <div class="col-4_sm-12 centered">
+    <h4 class="shorelines">Continents</h4>
+    <h4>5</h4>
+  </div>
+</section>
 <!--<section class="guides">
   <h2 class="shorelines"> Destination Guides </h2>
   <div class="grid-middle">
@@ -75,7 +89,7 @@ banner-image_path: /images/instaTour.jpg
       <li>Flight Assistant</li>
       <li>2 day trips</li>
       <li>5 restaurant recommendations</li>
-      <button class="hireButton" type="button" name="button">HIRE ME</button>
+      <button class="hireButton" type="button" name="button"><a href="#">HIRE ME</a></button>
     </ul>
   </div>
   <div class="col-4_sm-12 centered bg">
@@ -88,7 +102,7 @@ banner-image_path: /images/instaTour.jpg
       <li>Newsletters</li>
       <li>Social media management</li>
       <li>Facebook group management</li>
-      <button class="hireButton" type="button" name="button">HIRE ME</button>
+      <button class="hireButton" type="button" name="button"><a href="#">HIRE ME</a></button>
     </ul>
   </div>
   <div class="col-4_sm-12 centered bg">
@@ -101,7 +115,7 @@ banner-image_path: /images/instaTour.jpg
       <li>A website that is on point with your brand</li>
       <li>Fast loading speeds</li>
       <li>Completely customized and uniqeu</li>
-      <button class="hireButton" type="button" name="button">HIRE ME</button>
+      <button class="hireButton" type="button" name="button"><a href="#">HIRE ME</a></button>
     </ul>
   </div>
   <div class="post">
@@ -113,7 +127,7 @@ banner-image_path: /images/instaTour.jpg
   <h2 class="center shorelines">Read the blog</h2>
   <div class="blog-posts grid-middle-center">
 
-   {% for post in site.posts %}
+   {% for post in site.posts limit:4 %}
 
    <div class="blog-post col-3_sm-6">
      <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
@@ -135,3 +149,6 @@ banner-image_path: /images/instaTour.jpg
   	<input name="email" type="text" class="feedback-input" placeholder="Email" />
   	<input type="submit" value="SUBMIT"/>
 </section>
+<div>
+  <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/c58071cd141b555c8da1878eba4bba9c.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+</div>

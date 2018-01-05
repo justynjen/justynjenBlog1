@@ -34,7 +34,7 @@ ul {
   list-style-type: none;
 }
 .home{
-  background-color: #eedcc6ba;
+  background-color: white;
 }
 .bg{
   background-position: center;
@@ -245,6 +245,13 @@ About text
 .aboutText{
   color: white;
   background-color: #0184a9;
+}
+/*
+GOALS
+*/
+.goals{
+  background-color: #01bfc4;
+  min-height: 30vh;
 }
 /*
 BLOG
