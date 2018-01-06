@@ -444,3 +444,13 @@ a.socialIcon{
       min-height: 150vh;
     }
   }
+  @media all and (max-width:640px){
+    .mainNav{
+      display: none;
+    }
+  }
+@media all and (min-width:640px){
+  .hamburger{
+    display:none;
+  }
+}
