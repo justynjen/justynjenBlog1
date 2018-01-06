@@ -42,6 +42,16 @@ ul {
   background-size: cover;
   height:200px;
 }
+@media all and (max-width:768px){
+  .hireBanner{
+    min-height: 150vh;
+  }
+}
+@media all and (max-width:768px){
+  h1{
+    font-size: 12px;
+  }
+}
 hr {
   border: none;
   border-bottom: 2px solid black;
@@ -252,6 +262,9 @@ GOALS
 .goals{
   background-color: #01bfc4;
   min-height: 30vh;
+}
+.goals h4{
+  padding-top: 3%;
 }
 /*
 BLOG
