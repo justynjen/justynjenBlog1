@@ -40,17 +40,7 @@ ul {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height:200px;
-}
-@media all and (max-width:768px){
-  .hireBanner{
-    min-height: 150vh;
-  }
-}
-@media all and (max-width:768px){
-  h1{
-    font-size: 12px;
-  }
+  min-height:200px;
 }
 hr {
   border: none;
@@ -177,6 +167,9 @@ h5{
 }
 .hireBanner{
   min-height: 80vh;
+}
+.hireBanner h3{
+  padding-top: 20%;
 }
 .hireBanner h5{
   font-size: 1.3rem;
@@ -446,3 +439,9 @@ a.socialIcon{
 .sbIcon{
 	text-align: center;
 	}
+  @media all and (max-width:768px){
+    .hireBanner{
+      min-height: 150vh;
+    }
+  }
+  @media all and (max-width:768px){
