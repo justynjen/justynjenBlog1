@@ -381,14 +381,14 @@ hamburger menu
   font-size: 45px;
 	text-align: left;
   font-weight: 300;
-	color:rgb(137, 99, 63);
+	color:black;
 	font-family: 'Lato', sans-serif;
   display:block;
   padding:8px 15px;
   white-space:nowrap;
 }
 .hamburger-menu a:hover{
-	color:rgb(223, 172, 129);
+	color:black;
 }
 a.smallMenu {
 	font-size: 25px;
@@ -404,7 +404,7 @@ a.smallMenu {
 }
 .hamburger-button span{
   width: 50px;
-  border: 2px solid rgba(90, 69, 44, 1);
+  border: 2px solid black;
   background-color: black;
   display: block;
   border-radius: 22px;
@@ -422,12 +422,12 @@ a.smallMenu {
 .active .hamburger-top{
    transform: rotateZ(45deg);
   top:12px;
-  border-color:rgb(137, 99, 63);
+  border-color:black;
 }
 .active .hamburger-bottom{
    transform: rotateZ(-45deg);
   bottom:12px;
-  border-color:rgb(137, 99, 63);
+  border-color:black;
 }
 .active .hamburger-middle{
   opacity:0;
