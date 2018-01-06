@@ -266,7 +266,7 @@ BLOG
   width: fit-content;
 }
 .blogContainer{
-  height: 100px;
+  height: 230px;
   width: 200px;
   text-align: center;
 }
@@ -278,6 +278,9 @@ BLOG
   width: 180px;
   border-radius: 2px;
   left: 8px;
+}
+.postUrl{
+  color: #02537d;
 }
 /*
 PORTFOLIO
