@@ -457,3 +457,33 @@ a.socialIcon{
     display:none;
   }
 }
+@media all and (max-width:768px){
+  .fa-instagram, .fa-facebook, .fa-pinterest, .fa-youtube, .fa-twitter{
+    font-size: 30px;
+  }
+}
+@media all and (max-width:768px){
+  .verticleText{
+    transform:rotate(360deg);
+  }
+}
+@media all and (max-width:768px){
+  .about h3{
+    font-size: 3.4rem;
+    line-height: 0px;
+    right: 265px;
+    position: absolute;
+    bottom: -76px;
+  }
+}
+@media all and (max-width:768px){
+  h4{
+    font-size: 2rem;
+  }
+  p{
+    font-size: 1rem;
+  }
+  .verticalIcons{
+    text-align: center;
+  }
+}
