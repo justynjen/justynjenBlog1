@@ -216,6 +216,9 @@ Helpers
 .centered{
   text-align: center;
 }
+.left{
+  text-align: left;
+}
 .shorelines{
   font-family: 'shorelines_script_boldregular';
 }
@@ -441,7 +444,10 @@ a.socialIcon{
 .sbIcon{
 	text-align: center;
 	}
-  @media all and (max-width:768px){
+.mobileFooterIcons a{
+  padding: 5%;
+}
+@media all and (max-width:768px){
     .hireBanner{
       min-height: 150vh;
     }
@@ -500,13 +506,14 @@ a.socialIcon{
     position: absolute;
     bottom: -70px;
   }
-  .verticalIcons{
-    display: inline;
-  }
-  footer h5{
+}
+@media all and (max-width:667px){
+  .footerMain{
     display: none;
   }
-  footer .footerlinks{
+}
+@media all and (min-width:667px){
+  .mobileFooter{
     display: none;
   }
 }
