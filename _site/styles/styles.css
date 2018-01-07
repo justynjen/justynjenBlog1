@@ -297,7 +297,7 @@ FORM
   color:white;
   font-family: Helvetica, Arial, sans-serif;
   font-weight:500;
-  font-size: 18px;
+  font-size: 12px;
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
@@ -381,8 +381,7 @@ hamburger menu
 }
 .hamburger-menu a {
   text-decoration: none;
-  font-size: 45px;
-	text-align: left;
+  font-size: 25px;
   font-weight: 300;
 	color:black;
 	font-family: 'Lato', sans-serif;
@@ -471,7 +470,7 @@ a.socialIcon{
   .about h3{
     font-size: 3.4rem;
     line-height: 0px;
-    right: 265px;
+    right: 227px;
     position: absolute;
     bottom: -76px;
   }
@@ -485,5 +484,29 @@ a.socialIcon{
   }
   .verticalIcons{
     text-align: center;
+  }
+  .about hr{
+    padding-top: 14%;
+  }
+}
+@media all and (max-width:667px){
+  .about hr{
+    padding-top: 30%;
+  }
+  .about h3{
+    font-size: 3.4rem;
+    line-height: 0px;
+    right: 92px;
+    position: absolute;
+    bottom: -70px;
+  }
+  .verticalIcons{
+    display: inline;
+  }
+  footer h5{
+    display: none;
+  }
+  footer .footerlinks{
+    display: none;
   }
 }
