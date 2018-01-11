@@ -119,11 +119,8 @@ h5{
   position: absolute;
   bottom: -112px;
 }
-.about h4{
-  padding-top: 15%;
-}
 .about hr{
-  padding-top: 9%;
+  padding-top: 15%;
 }
 .imageFlip{
   transform: rotate(180deg);
