@@ -532,6 +532,9 @@ a.socialIcon{
     position: absolute;
     bottom: -70px;
   }
+  .mainJ h2{
+    padding-top: 24%;
+  }
 }
 @media all and (max-width:667px){
   .footerMain{
