@@ -233,9 +233,6 @@ Helpers
   right: 9%;
   position: relative;
 }
-.padding{
-  padding: 3%;
-}
 .lineHeight{
   line-height: 1;
 }
@@ -261,6 +258,39 @@ GOALS
 }
 .goals h4{
   padding-top: 3%;
+}
+/*
+WORK
+*/
+.work{
+  padding: 0 !important;
+}
+ a:hover {
+  text-decoration: underline;
+}
+/*
+VA SECTION
+*/
+.vaSection{
+  background-color: #a9e8db;
+  padding: 4%;
+  height: 90vh;
+}
+/*
+WEB DEV SECTION
+*/
+.webSection{
+  background-color: #0184a9;
+  padding: 4%;
+  height: 90vh;
+}
+/*
+HOLIDAY LOVERS
+*/
+.holidaySection{
+  padding: 4%;
+  background-color: #e0f7e6;
+  height: 90vh;
 }
 /*
 BLOG
