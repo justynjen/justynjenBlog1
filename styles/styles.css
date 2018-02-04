@@ -229,6 +229,9 @@ Helpers
 .lineHeight{
   line-height: 1;
 }
+.padding{
+  padding: 2%;
+}
 /*
 About text
 */
