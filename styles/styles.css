@@ -295,6 +295,10 @@ HOLIDAY LOVERS
 BLOG
 */
 .blogImage{
+  width: fit-content;
+  text-align: center;
+}
+.blogPage-image{
   text-align: center;
   position: relative;
   left: 33%;
@@ -315,6 +319,12 @@ BLOG
 }
 .postUrl{
   color: #02537d;
+}
+/*
+POSTS
+*/
+.posts{
+  padding:5%;
 }
 /*
 PORTFOLIO
