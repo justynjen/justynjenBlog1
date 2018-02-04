@@ -295,7 +295,9 @@ HOLIDAY LOVERS
 BLOG
 */
 .blogImage{
-  width: fit-content;
+  text-align: center;
+  position: relative;
+  left: 33%;
 }
 .blogContainer{
   height: 230px;
