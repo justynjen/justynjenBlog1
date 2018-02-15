@@ -31,7 +31,8 @@ There are about 100 million travel bloggers and 600 million other bloggers out t
 <h3 class="shorelines"> 7. Write Every day. </h3>
 Yup it’s a lot of work to be a blogger. You really should be writing something down every day to keep those blogger juices flowing. An awesome mentor we had told us to start every day with some morning pages. This means that every morning you sit down undisturbed and free flow write everything that you have on your mind. I have actually come up with some awesome blog posts this way. Do it. Trust me.
 
-<h3 class="shorelines"> 8. Take a lot of photos and don’t apologize for it. </h3>
+<h3 class="shorelines"> 8. Take a lot of photos </h3>
+<h4> and don’t apologize for it. </h4>
 All those people that think you are weird for taking 100 thousand photos of yourself drinking coffee are just jealous that they don’t have the perfect coffee drinking photo. Ignore the haters, take all the photos that you want and need. People are very visual and they just love to scroll through beautiful photos on the internet when they are sad about their lives and the fact that they can’t travel. Give them something great to look at and don’t be embarrassed that it took you 59 tries.
 
 <h3 class="shorelines"> 9. Keep on Keepin’ on </h3>
