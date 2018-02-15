@@ -274,6 +274,8 @@ VA SECTION
   background-color: #a9e8db;
   padding: 4%;
   min-height: 80vh;
+  align-content: stretch;
+  display: flex;
 }
 /*
 MAKE SOMETHING SECTION
@@ -283,6 +285,8 @@ MAKE SOMETHING SECTION
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 80vh;
+  align-content: stretch;
+  display: flex;
 }
 /*
 WEB DEV SECTION
@@ -291,6 +295,8 @@ WEB DEV SECTION
   background-color: #0184a9;
   padding: 4%;
   min-height: 80vh;
+  align-content: stretch;
+  display: flex;
 }
 /*
 HOLIDAY LOVERS
@@ -299,6 +305,8 @@ HOLIDAY LOVERS
   padding: 4%;
   background-color: #e0f7e6;
   min-height: 80vh;
+  align-content: stretch;
+  display: flex;
 }
 /*
 BLOG
