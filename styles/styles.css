@@ -96,7 +96,7 @@ h5{
   padding: 0;
 }
 .bgAbout{
-  height: 552px;
+  min-height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -230,7 +230,7 @@ Helpers
   line-height: 1;
 }
 .padding{
-  padding: 2%;
+  padding: 4%;
 }
 /*
 About text
@@ -273,7 +273,16 @@ VA SECTION
 .vaSection{
   background-color: #a9e8db;
   padding: 4%;
-  height: 90vh;
+  height: 80vh;
+}
+/*
+MAKE SOMETHING SECTION
+*/
+.bgMake{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
 }
 /*
 WEB DEV SECTION
@@ -281,7 +290,7 @@ WEB DEV SECTION
 .webSection{
   background-color: #0184a9;
   padding: 4%;
-  height: 90vh;
+  height: 80vh;
 }
 /*
 HOLIDAY LOVERS
@@ -289,7 +298,7 @@ HOLIDAY LOVERS
 .holidaySection{
   padding: 4%;
   background-color: #e0f7e6;
-  height: 90vh;
+  height: 80vh;
 }
 /*
 BLOG
