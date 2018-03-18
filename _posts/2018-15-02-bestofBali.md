@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-11-02
-feature-image_path: /images/bali/volcano.jpg
+feature-image_path: /images/bali/rice2.jpg
 title: The Best Things About Living in Bali
 Author: Justyn
 ---
