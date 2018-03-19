@@ -4,6 +4,9 @@ date: 2017-11-02
 feature-image_path: /images/bali/rice2.jpg
 title: The Best Things About Living in Bali
 Author: Justyn
+tags:
+  -travel
+  -bali
 ---
 So I know, you may have freaked out a little bit by that post “The Struggles of moving to Bali”, but hey it’s a hard life. Not that hard however, which is why I want to write about all the best things that Bali has to offer.
 
