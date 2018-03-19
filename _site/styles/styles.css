@@ -102,7 +102,7 @@ h5{
   background-size: cover;
 }
 .bgPosts{
-  min-height: 250px;
+  min-height: 450px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -190,12 +190,12 @@ h5{
   border-radius: 6px;
   border: black 1px solid;
 }
-input[type="email"] {
+/*input[type="email"] {
   padding: 1%;
   border-radius: 4px;
   font-size: 18px;
   border: none;
-}
+}*/
 form{
   padding: 2%;
 }
