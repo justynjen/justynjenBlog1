@@ -4,7 +4,7 @@ title: Justynjen
 banner-image_path: /images/bali/instaTour.jpg
 ---
 
-<section class="banner bg grid-top-center" style="background-image:url('{{page.banner-image_path}}');">
+<section class="banner bg grid-top-center" data-pin-do="buttonPin"  style="background-image:url('{{page.banner-image_path}}');">
   <div class="col-4_sm-12">
     <h2 class="shorelines padding lineHeight mainJ">Justyn Jen</h2>
     <hr class="center"> </hr>
@@ -139,6 +139,7 @@ banner-image_path: /images/bali/instaTour.jpg
 </section>-->
 <section class="blog">
   <h2 class="center shorelines">Read the blog</h2>
+  <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
   <div class="blog-posts grid-middle-center">
 
    {% for post in site.posts limit:4 %}
