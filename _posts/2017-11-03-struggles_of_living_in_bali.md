@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-11-03
-feature-image_path: /images/rice.jpg
+feature-image_path: /images/bali/volcano.jpg
 title: Living Abroad in Bali - The Struggle Edition
 Author: Justyn
 ---
