@@ -28,7 +28,7 @@ The calendar feature in Airtable is my favorite. If you are working for multiple
 
 Like I said above, my google drive is INTENSE. This is where I keep everything. I have entire folders just for my finances, where I track all my money and scan in and link all my receipts. My finances folder is probably my most proud accomplishment of 2017. I LOVE IT.
 
-I also have a folder for every client that I work for where I keep their branding, what they expect from me, our contract and terms and more. Anything that they share with me goes in that folder and then all those folders go in my Freelancing folder. It’s amazing for my organization. &nbsp;
+I also have a folder for every client that I work for where I keep their branding, what they expect from me, our contract and terms and more. Anything that they share with me goes in that folder and then all those folders go in my Freelancing folder. It’s amazing for my organization.
 
 #### Andco
 
