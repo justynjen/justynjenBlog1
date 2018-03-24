@@ -34,7 +34,7 @@ I stumbled upon this one while searching for more inspiration and it was just wh
 
 ![](/uploads/goaldiggerpodcast.png)
 
-This HAS to be my favorite, most helpful, inspiring and downright awesome podcast I have subscribed to. Go subscribe to Jenna Kutcher’s Goal Digger podcast right now and let it change the way you think about yourself and your life. This week I listened to episode 131: 5 Big Lies That Are Holding You Back and it is a great one as usual. This podcast may seem like it’s only for entrepreneurs but you can apply the principles to life in your 20’s no problem. &nbsp;
+This HAS to be my favorite, most helpful, inspiring and downright awesome podcast I have subscribed to. Go subscribe to Jenna Kutcher’s Goal Digger podcast right now and let it change the way you think about yourself and your life. This week I listened to episode 131: 5 Big Lies That Are Holding You Back and it is a great one as usual. This podcast may seem like it’s only for entrepreneurs but you can apply the principles to life in your 20’s no problem.
 
 #### 5. Let It Out with Katie Dalebout
 
@@ -42,7 +42,7 @@ This HAS to be my favorite, most helpful, inspiring and downright awesome podcas
 
 Now this is a bit longer per episode so if you are looking for something to listen to while cleaning or driving or you just find yourself bored one afternoon then delve into this podcast with Katie Dalebout as she invites a different guest speaker on and talks about life in general. Whether it's a light conversation or super personal, talking about productivity or sex; she digs into it. More than just talking though, she brings an informative and down to earth aspectic to her shows that I found I enjoyed and think you might as well.
 
-#### 6. &nbsp;The Upgrade by Lifehacker
+#### 6.  The Upgrade by Lifehacker
 
 ![](blob:https://app.cloudcannon.com/ac2899a3-b9db-40ad-b4f4-5bc40b01d300)
 
