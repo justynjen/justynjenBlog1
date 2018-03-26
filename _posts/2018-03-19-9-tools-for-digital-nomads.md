@@ -42,7 +42,7 @@ If your client hasn’t set it up yet, educate them on why they need it and then
 
 #### Tailwinds
 
-THIS IS WHERE IT IS AT. I think that everyone needs to have Pinterest for their business. There are very few businesses that wouldn’t benefit in some way from Pinterest. So if you aren’t on Pinterest yet, or you aren’t using it to ROCK your business then click HERE RIGHT NOW. And come back to this post when you have Pinterest going. Because if you aren’t pinning, you aren’t winning.
+THIS IS WHERE IT IS AT. I think that everyone needs to have Pinterest for their business. There are very few businesses that wouldn’t benefit in some way from Pinterest. So if you aren’t on Pinterest yet, or you aren’t using it to ROCK your business then click [HERE RIGHT NOW](https://www.tailwindapp.com/i/justynjen). And come back to this post when you have Pinterest going. Because if you aren’t pinning, you aren’t winning.
 
 Tailwinds helps you stay active on Pinterest. It helps you to be pinning throughout the day, but unlike bots that people use to stay active on Instagram, Tailwinds is all set up by you. I spend 2 hours at the beginning of every week setting up my Tailwinds for the week ahead. I set up all my pins, repins and likes through Tailwinds and then I let it roll with it everyday. I love Pinterest so I still get on a few times a day and do other things - but I am no longer falling into the Pinterest hole when I am meant to be doing other work. Get Tailwinds and get on Pinterest! A must have digital nomad tool!
 
