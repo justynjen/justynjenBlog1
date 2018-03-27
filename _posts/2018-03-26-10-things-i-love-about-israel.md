@@ -48,7 +48,7 @@ I am a huge nerd and that is part of what even got me traveling in the very begi
 
 ![](/uploads/everyone.jpg)
 
-- and all their staff. WAY TO GO GUYS. You have killed the hostel game. I loved every place that I stayed, the door to door service is amazing and honestly you guys have the greatest culture. They were so kind and understanding and I can’t wait to come back and be a part of the family again.
+* and all their staff. WAY TO GO GUYS. You have killed the hostel game. I loved every place that I stayed, the door to door service is amazing and honestly you guys have the greatest culture. They were so kind and understanding and I can’t wait to come back and be a part of the family again.
 
 #### 7. Art art art.
 
