@@ -10,9 +10,9 @@ tags:
   - Middle East
 ---
 
-#### ![](/uploads/master-procrastinator-by-tim-urban1.PNG)
-
 #### Inside the mind of a master procrastinator | Tim Urban
+
+#### ![](/uploads/master-procrastinator-by-tim-urban1.PNG)
 
 In Tim Urban’s Ted Talk on [“Inside the mind of a master procrastinator”](https://www.youtube.com/watch?v=arj7oStGLkU) he starts off by talking about the kind of procrastinator that is good at getting things done at the last minute. In his light and humorous way, he makes you feel like it's not so bad to work like this until he dives into what happens when there isn’t a deadline on your procrastinating and you are stuck watching your life scurry by. Tim’s talk is designed to open you up to understand that sometimes waiting for the ‘panic monster’ as he puts it isn’t good enough and that you need to start taking a step forward, even if that step is tomorrow. I need this because I often find that I can be the queen of procrastination. Who agrees?
 
@@ -38,7 +38,7 @@ Honestly, it doesn’t get any more inspiring than listening to Cassie De Pecol 
 
 #### I'm home: How 10 years of travel helped me find belonging. | Phil Cha
 
-This is one of my most favorite Ted Talks that you must listen to or watch! [“I’m home: How 10 years of travel helped me find belonging” by Phil Cha](https://www.youtube.com/watch?v=bXBgitBX5Q0) has been a pivotal talk for me in discerning who I am and what I want. I know it doesn’t seem like it but I struggle with belonging and the need to feel loved and like I am a part of something bigger. Sometimes, just like most of you I am sure, I start to get down and feel like I need to change something about who I am or what I want so that I can feel like I fit somewhere. Phil really brought it home for me that I am where I belong and am gathering up pieces of myself as I go and am adding them to an already whole picture that continues to grow. Let him inspire you as much as he did me. Remember to always surround yourself with the best raindrops!
+This is one of my most favorite Ted Talks that you must listen to or watch! [“I’m home: How 10 years of travel helped me find belonging” by Phil Cha](https://www.youtube.com/watch?v=bXBgitBX5Q0)&nbsp;has been a pivotal talk for me in discerning who I am and what I want. I know it doesn’t seem like it but I struggle with belonging and the need to feel loved and like I am a part of something bigger. Sometimes, just like most of you I am sure, I start to get down and feel like I need to change something about who I am or what I want so that I can feel like I fit somewhere. Phil really brought it home for me that I am where I belong and am gathering up pieces of myself as I go and am adding them to an already whole picture that continues to grow. Let him inspire you as much as he did me. Remember to always surround yourself with the best raindrops!
 
 #### ![](/uploads/benefits-of-rejection-by-magna-gopal1.PNG)
 
