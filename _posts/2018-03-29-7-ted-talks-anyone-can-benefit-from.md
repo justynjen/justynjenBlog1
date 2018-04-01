@@ -10,7 +10,7 @@ tags:
   - Middle East
 ---
 
-I decided to share with you a few of my favorite podcasts! I really think that these are something that everyone can benefit from.&nbsp;
+I decided to share with you a few of my favorite tedtalks! I really think that these are something that everyone can benefit from.&nbsp;
 
 #### Inside the mind of a master procrastinator | Tim Urban
 
