@@ -59,7 +59,7 @@ a {
   font-size: 1.3rem;
 }
 li{
-  font-size: 1.3rem;  
+  font-size: 1.3rem;
 }
 header{
   position: relative;
@@ -284,20 +284,7 @@ VA SECTION
 */
 .vaSection{
   background-color: #a9e8db;
-  padding: 4%;
-  min-height: 80vh;
-  align-content: stretch;
-  display: flex;
-}
-/*
-MAKE SOMETHING SECTION
-*/
-.bgMake{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 80vh;
-  align-content: stretch;
+  padding: 2%;
   display: flex;
 }
 /*
@@ -305,19 +292,15 @@ WEB DEV SECTION
 */
 .webSection{
   background-color: #0184a9;
-  padding: 4%;
-  min-height: 80vh;
-  align-content: stretch;
+  padding: 2%;
   display: flex;
 }
 /*
 HOLIDAY LOVERS
 */
 .holidaySection{
-  padding: 4%;
+  padding: 2%;
   background-color: #e0f7e6;
-  min-height: 80vh;
-  align-content: stretch;
   display: flex;
 }
 /*
