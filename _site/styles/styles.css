@@ -83,6 +83,12 @@ header .icon{
   width: 50px;
   margin-bottom: 15px;
 }
+.icon2{
+  height: 25px;
+  width: 25px;
+  padding-right: 2px;
+  margin-top: 5px;
+}
 h2{
   font-size: 3.8rem;
   text-align: center;
@@ -261,7 +267,7 @@ About text
 GOALS
 */
 .goals{
-  background-color: #01bfc4;
+  background-color: white;
   min-height: 30vh;
 }
 .goals h4{
