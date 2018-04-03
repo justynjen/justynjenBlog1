@@ -1,13 +1,13 @@
 ---
 layout: posts
 date: 2018-03-29 00:00:00
-feature-image_path: /uploads/dozen-58882-unsplash-1.jpg
-title: 7 Ted Talks Anyone Can Benefit From
+feature-image_path: /uploads/haute-stock-photography-pink-mint-marble-final-15.jpg
+title: 7 Ted Talks Everyone Should Listen Too
 Author: Justyn
 tags:
-  - '-travel'
-  - Israel
-  - Middle East
+  - Inspiration
+  - Ted Talks
+  - Self Improvement
 ---
 
 I decided to share with you a few of my favorite tedtalks! I really think that these are something that everyone can benefit from.&nbsp;
@@ -58,4 +58,4 @@ WTF! Wow, that’s fun! Wouldn’t life be so much sweeter if more people saw WT
 
 Pin this to share with friends!
 
-![](blob:https://app.cloudcannon.com/e083ca73-1cbb-4fce-8a6c-35eeb76aacf1)
+![](/uploads/7-ted-talks.png)
