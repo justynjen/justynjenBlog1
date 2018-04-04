@@ -291,7 +291,6 @@ VA SECTION
 .vaSection{
   background-color: #a9e8db;
   padding: 2%;
-  display: flex;
 }
 /*
 WEB DEV SECTION
@@ -299,7 +298,6 @@ WEB DEV SECTION
 .webSection{
   background-color: #0184a9;
   padding: 2%;
-  display: flex;
 }
 /*
 HOLIDAY LOVERS
@@ -307,7 +305,6 @@ HOLIDAY LOVERS
 .holidaySection{
   padding: 2%;
   background-color: #e0f7e6;
-  display: flex;
 }
 /*
 BLOG
