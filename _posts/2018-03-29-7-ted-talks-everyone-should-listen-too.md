@@ -1,13 +1,13 @@
 ---
 layout: posts
 date: 2018-03-29 00:00:00
-feature-image_path: /uploads/dozen-58882-unsplash-1.jpg
-title: 7 Ted Talks Anyone Can Benefit From
+feature-image_path: /uploads/haute-stock-photography-pink-mint-marble-final-15.jpg
+title: 7 Ted Talks Everyone Should Listen Too
 Author: Justyn
 tags:
-  - '-travel'
-  - Israel
-  - Middle East
+  - Inspiration
+  - Ted Talks
+  - Self Improvement
 ---
 
 I decided to share with you a few of my favorite tedtalks! I really think that these are something that everyone can benefit from.&nbsp;
@@ -16,7 +16,7 @@ I decided to share with you a few of my favorite tedtalks! I really think that t
 
 #### ![](/uploads/master-procrastinator-by-tim-urban1.PNG)
 
-In Tim Urban’s Ted Talk on [“Inside the mind of a master procrastinator”](https://www.youtube.com/watch?v=arj7oStGLkU) he starts off by talking about the kind of procrastinator that is good at getting things done at the last minute. In his light and humorous way, he makes you feel like it's not so bad to work like this until he dives into what happens when there isn’t a deadline on your procrastinating and you are stuck watching your life scurry by. Tim’s talk is designed to open you up to understand that sometimes waiting for the ‘panic monster’ as he puts it isn’t good enough and that you need to start taking a step forward, even if that step is tomorrow. I need this because I often find that I can be the queen of procrastination. Who agrees?
+In Tim Urban’s Ted Talk on [“Inside the mind of a master procrastinator”](https://www.youtube.com/watch?v=arj7oStGLkU) he starts off by talking about the kind of procrastinator that is good at getting things done at the last minute. In his light and humorous way, he makes you feel like it’s not so bad to work like this until he dives into what happens when there isn’t a deadline on your procrastinating and you are stuck watching your life scurry by. Tim’s talk is designed to open you up to understand that sometimes waiting for the ‘panic monster’ as he puts it isn’t good enough and that you need to start taking a step forward, even if that step is tomorrow. I need this because I often find that I can be the queen of procrastination. Who agrees?
 
 #### How to travel the world with almost no money | Tomislav Perko
 
@@ -36,7 +36,7 @@ Honestly, it doesn’t get any more inspiring than listening to Cassie De Pecol 
 
 [Luis Vargas](https://www.youtube.com/watch?v=AlCqyZEXM1I) is awe inspiring! In his Ted Talk called [“Travel More and Buy Less”](https://www.youtube.com/watch?v=AlCqyZEXM1I) he talks about his struggle growing up in California but having been born in Mexico, he felt like he didn’t really belong either place. Traveling helped him truly find who he was in this great wide world. I loved listening to him because he was funny and relatable. Let’s face it, we all really do spend money on things that we probably don’t need half the time. They say a picture is worth a thousand words… So what do you think a whole experience full of adventurous videos you took and all those hot selfies on the beach would cost?? Luis really inspires the non-travelers to plan their first trip but also those of us seasoned travelers to keep exploring new and exciting places.
 
-#### I'm home: How 10 years of travel helped me find belonging. | Phil Cha
+#### I’m home: How 10 years of travel helped me find belonging. | Phil Cha
 
 #### ![](/uploads/how-10-years-of-travel-helped-me-find-belonging-by-phil-cha1.PNG)
 
@@ -53,3 +53,9 @@ This was an excellent talk that put words to what we feel when we are the ones s
 #### ![](/uploads/the-skill-of-humor-by-andrew-tarvin1.PNG)
 
 WTF! Wow, that’s fun! Wouldn’t life be so much sweeter if more people saw WTF and thought wow that’s fun? [“The Skill of Humor” by Andrew Tarvin](https://www.youtube.com/watch?v=MdZAMSyn_As) was an excellent way to remind me that humor is a choice. You could say that unfortunate things tend to happen to me. I swear my luggage is ALWAYS the one getting shoveled through for one and lately it seems like my airlines enjoy waiting for me to show up to the airport to inform me my flight was cancelled before I even needed to get up at 2 am to get there. I could easily look at these things in a negative aspect but instead, I choose to laugh and enjoy. Humor is also an excellent way to get to know someone. Being able to smile and laugh with a person, whether a long time friend or a stranger, will connect you in a more meaningful way. I don’t know anyone who doesn’t like to laugh so you should listen to Andrew as he teaches about humor through humor.
+
+&nbsp;
+
+Pin this to share with friends!
+
+![](/uploads/7-ted-talks.png)
