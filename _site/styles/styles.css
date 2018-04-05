@@ -63,6 +63,9 @@ header a {
 post.url{
   text-decoration: none;
 }
+.postTitle a{
+  text-decoration: none;
+}
 li{
   font-size: 1.3rem;
 }
