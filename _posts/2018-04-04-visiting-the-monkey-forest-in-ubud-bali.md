@@ -18,17 +18,17 @@ The monkey forest is a must do while you are in Bali, but you must be smart when
 
 ![](/uploads/dsc05479.jpg)
 
-Step 1: Getting Prepared
+#### Step 1: Getting Prepared
 
 Before going to said monkey forest, one should dress appropriately. This means so fancy jewels. Leave behind your earrings, necklaces and bracelets. If a monkey can yank it, it is best left behind. Wear comfy clothes that you don’t mind getting smashed bananas on because it’ll happen, regardless of your wishes. Speaking of messy clothes, I brought a change of clothes to wear afterwards, for the rest of my day. Next, tuck your hats and sunglasses away. Chuck them in your bag, or just leave them in the car because monkeys will shameless steal everything you own. Lastly, get that camera charged up for the occasion. You are not going to want to miss all the cute picture opportunities.
 
 ![](/uploads/img-04221.JPG)
 
-Step 2: When to go
+#### Step 2: When to go
 
 I find the best time to go is first thing in the morning. We went early and there was not a single person there. When we drove by later that afternoon, it was packed! Another tip is to try going through the back entrance. Believe me, if you ask your driver or any local, they’ll know what you mean. It also tends to be a lot less crowded than the main entrance.
 
-Step 3: Follow the rules
+#### Step 3: Follow the rules
 
 1. The monkey forest has tons of staff and tons of rules in place to help keep you safe while visiting. Some of the rules they have in place are:
 2. Don’t make eye contact with the monkeys, just don’t. It will agitate them so it is best avoided.
@@ -37,7 +37,7 @@ Step 3: Follow the rules
 5. Keep your hands open, you don’t want to make the monkeys think you have food when you don’t and don’t try to fool them with empty banana peels. They are much smarter than that.
 6. The last rule of the monkey forest is to have fun!! Get out there and get some monkey cuddles.
 
-Step 4: Have a ball!
+#### Step 4: Have a ball!
 
 The monkey forest is a lot of fun! I definitely recommend going because it is a cool experience, and if I can’t convince you then maybe my photos will!! It’s a magical monkey paradise.
 
