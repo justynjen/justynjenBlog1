@@ -12,7 +12,7 @@ tags:
 
 Step back in time, into a Wizard of Oz fairy tale of lions, tigers and monkeys oh my! Good for more than just monkeys, the monkey forest is huge and beautiful. You wander through twists and turns of vine covered trees and hanging bridges, with monkeys swinging around, their babies clinging tight to them.
 
-![](/uploads/dsc05557.jpg)![](/uploads/dsc05557-4.jpg)
+![](/uploads/dsc05557-4.jpg)
 
 The monkey forest is a must do while you are in Bali, but you must be smart when you go. On my trip to the magical forest, someone got bit, and someone ended up getting a pearl earring stolen. So while this is a fun activity for everyone on their trip to Bali, you should go prepared and go smart.
 
