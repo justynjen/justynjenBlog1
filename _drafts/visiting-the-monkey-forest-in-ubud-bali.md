@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-04 00:00:00
-feature-image_path: /uploads/dsc05479-1.jpg
+feature-image_path: /uploads/dsc05557-3.jpg
 title: 'Visiting the Monkey Forest in Ubud, Bali'
 Author: Justyn
 tags:
