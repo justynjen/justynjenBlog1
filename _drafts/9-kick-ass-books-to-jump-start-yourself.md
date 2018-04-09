@@ -63,3 +63,5 @@ A truly enlightening book I recommend everyone read is called "The Four Agreemen
 #### The Seven Wonders That Will Change Your Life by Glenn Beck and Dr. Keith Ablow
 
 This is a unique combination of life experiences from Glenn and keen observation from Dr. Ablow. When you add both insights and experiences, this wonderful book of thought and inspiration was created and can change your life. If you are looking to transform your life in any way, you should pick this book up. It’s sole purpose is to help you reconstruct your thoughts and actions and inspire you with helpful tools to take that first step towards your transformation.
+
+Even though I am crazy busy most of the time, I always find time to read. It calms my mind and helps me refocus. If you have any books that help or inspire you please let me know what they are! I am always looking for my next good read.
