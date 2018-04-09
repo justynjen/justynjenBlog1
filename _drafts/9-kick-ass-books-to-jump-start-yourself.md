@@ -22,7 +22,7 @@ I have said before that I love Gretchen Rubin and since I had read her other boo
 
 I can’t say that I am really big into poetry but anything written by Maya Angelou has a way of resonating with a person. “And Still I Rise” is no exception. With these poems you feel her meaning in each line and something will ring true for you. I know Maya Angelou’s poetry helps me think about things in a new light.
 
-#### ![](blob:https://app.cloudcannon.com/e6d29e56-2bf3-4768-9368-c2c53f0c77a3)
+#### ![](blob:https://app.cloudcannon.com/e6d29e56-2bf3-4768-9368-c2c53f0c77a3)![](/uploads/stalkinggod1.PNG)
 
 #### Stalking God: My Unorthodox Search for Something to Believe In by Anjali Kumar
 
@@ -34,7 +34,7 @@ I personally feel like I can relate strongly with Anjali Kumar in her book calle
 
 You can’t go wrong with any Brene Brown book but I love this one in particular because it made me look inward to the kind of person I am and how I talk to myself. I am incredibly judgemental to who I am sometimes and that kind of self talk can be extremely detrimental. Brown also helped me realize how I interact with others and the words I use to communicate. She brought so much of my subconscious thoughts and doings to like that I recommend Brene Brown and “The Power of Vulnerability” to all.
 
-#### ![](blob:https://app.cloudcannon.com/5b7ff2c5-87be-46b6-9b86-0b6955f6d04a)
+#### ![](blob:https://app.cloudcannon.com/5b7ff2c5-87be-46b6-9b86-0b6955f6d04a)![](/uploads/youareabadass1-1.PNG)
 
 #### You are a Badass by Jen Sincero
 
@@ -46,7 +46,7 @@ You could possibly say that reading this book was the most pivotal moment in my 
 
 "The Alchemist" was first written in Portuguese by a Brazilian author named Paulo Coelho but once it became an international best seller it has since been translated into 70 languages. This is a wonderful story of travel and discovery and a story that every person can relate to. We all have a secret dreamer inside of us that can connect to this story of adventure in many ways. I loved it as pleasure book but also as a book to inspire me to always remember that the journey is part of the adventure.
 
-#### ![](blob:https://app.cloudcannon.com/2a1f790e-df2d-4462-bf06-4c402dd90c7c)
+#### ![](blob:https://app.cloudcannon.com/2a1f790e-df2d-4462-bf06-4c402dd90c7c)![](/uploads/steallikeanartist1-1.PNG)
 
 #### Steal like an artist by Austin Kleon
 
@@ -56,7 +56,7 @@ This is a creative thinking self help book by Austin Kleon and has helped me on 
 
 #### The Four Agreements by Don Miguel Ruiz
 
-A truly enlightening book I recommend everyone read is called "The Four Agreements" by Don Miguel Ruiz. He outlines four different self attributes that when put together will help you to become the person you have always wanted to be.
+A truly enlightening book I recommend everyone read is called The Four Agreements by Don Miguel Ruiz. He outlines four different self attributes that when put together will help you to become the person you have always wanted to be. This book had powerful concepts that, if followed, will help us to love ourselves more, improve our relationships with others and help us to achieve our goals. We can find inner peace that will help us to live our heaven on earth.
 
 #### ![](/uploads/7wondersthatwillchangeyourlife1.PNG)
 
