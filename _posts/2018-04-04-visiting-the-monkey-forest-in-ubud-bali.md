@@ -10,8 +10,6 @@ tags:
   - Digital Nomads
 ---
 
-#
-
 Step back in time, into a Wizard of Oz fairy tale of lions, tigers and monkeys oh my! Good for more than just monkeys, the monkey forest is huge and beautiful. You wander through twists and turns of vine covered trees and hanging bridges, with monkeys swinging around, their babies clinging tight to them.
 
 ![](/uploads/dsc05557.jpg)
