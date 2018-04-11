@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2018-04-04 00:00:00
+date: 2018-04-11 00:00:00
 feature-image_path:
 title: 9 Kick Ass Books to Jump Start Yourself
 Author: Justyn
