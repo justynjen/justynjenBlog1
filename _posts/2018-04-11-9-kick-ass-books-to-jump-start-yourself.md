@@ -14,13 +14,19 @@ The first thing that you should know about me is that I LOVE to read. I was that
 
 #### Better than Before by Gretchen Rubin
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/0385348630/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385348630&linkCode=as2&tag=justynjen07-20&linkId=e1cc7828077e8f116dda0327d115957f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385348630&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=0385348630" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 I have said before that I love Gretchen Rubin and since I had read her other book called “The Happiness Project” I thought that this would be a lot of repeating in this book. I couldn’t have been more wrong. “Better Than Before” is packed with new thoughts about making good habits and breaking the bad ones. She brings so many different ideas that no matter who you are or what you are struggling with, something will stick out to you personally and provide direction.
 
 #### And Still I Rise: A book of Poems by Maya Angelou
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/0394502523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0394502523&linkCode=as2&tag=justynjen07-20&linkId=ee86f3ee1bbecf1567533c186e178a07"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0394502523&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=0394502523" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 I can’t say that I am really big into poetry but anything written by Maya Angelou has a way of resonating with a person. “And Still I Rise” is no exception. With these poems you feel her meaning in each line and something will ring true for you. I know Maya Angelou’s poetry helps me think about things in a new light.
 
 #### Stalking God: My Unorthodox Search for Something to Believe In by Anjali Kumar
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/158005661X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=158005661X&linkCode=as2&tag=justynjen07-20&linkId=066814b05e18a9186de8241ed5942f35"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=158005661X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=158005661X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 I personally feel like I can relate strongly with Anjali Kumar in her book called “Stalking God.” Religion can be found everywhere as Kumar demonstrates in her book. She travels far and wide and nothing was too out there for her to want to experience. Meeting with all kinds of spiritual giants she retells what she finds in this light hearted story of “Stalking God.”
 
