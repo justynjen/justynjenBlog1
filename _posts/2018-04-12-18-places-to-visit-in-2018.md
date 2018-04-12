@@ -26,7 +26,7 @@ I have wanted to go to Cambodia for a long time. It was actually part of my plan
 
 #### New Zealand.
 
-&nbsp;Mountains, fresh air and kiwi’s. Why wouldn’t I want to go? I have always heard the best things about New Zealand and I really hope that this year I can make it to this stunning country.
+ Mountains, fresh air and kiwi’s. Why wouldn’t I want to go? I have always heard the best things about New Zealand and I really hope that this year I can make it to this stunning country.
 
 ![](/uploads/new-zealand-679068-1920.jpg)
 
@@ -48,7 +48,7 @@ Beautiful deserts and beaches bordering the Atlantic ocean, marketplaces full of
 
 #### Egypt.
 
-Ever since I was little I have had this weird obsession with Egyptian culture. When I was little, I used to pretend that I was Cleopatra. Going to Egypt was my dream come true and you should all add it your list. If you need more inspiration, check out the [10 Things I Loved About Egypt!&nbsp;](/2018/03/31/10-things-i-loved-about-egypt.html)
+Ever since I was little I have had this weird obsession with Egyptian culture. When I was little, I used to pretend that I was Cleopatra. Going to Egypt was my dream come true and you should all add it your list. If you need more inspiration, check out the [10 Things I Loved About Egypt!](/2018/03/31/10-things-i-loved-about-egypt.html)
 
 ![](/uploads/dsc07286-1.jpg)
 
@@ -68,7 +68,7 @@ Since we are talking about Latvia, I really can’t wait to visit it’s neighbo
 
 #### Poland.
 
-This is actually Lithuania’s neighbor country but more than just trying to hit more than one country in the area, Poland has an ambiance from WWII about it that I have always wanted to explore. You know how much I love history so this place will be awesome. It also has great prices compared to the rest of Europe, so it's a great place to hit if you have a tighter budget.&nbsp;
+This is actually Lithuania’s neighbor country but more than just trying to hit more than one country in the area, Poland has an ambiance from WWII about it that I have always wanted to explore. You know how much I love history so this place will be awesome. It also has great prices compared to the rest of Europe, so it's a great place to hit if you have a tighter budget.
 
 ![](blob:https://app.cloudcannon.com/62d44b7d-2242-425d-b7e4-d3376087b0f2)
 
@@ -108,4 +108,4 @@ A southern African country with coral for miles along stunning beaches and prote
 
 I really want to visit this southwest country in Africa for its diverse wildlife, including a large cheetah population. This country has camping, safari, beaches, canyons and Etosha National Park. Etosha is a wildlife reserve with many different landscapes and I want to visit it really bad!
 
-Please tell me what you think about my list and what you might add! I have the biggest and most never ending bucket list around…&nbsp;
+Please tell me what you think about my list and what you might add! I have the biggest and most never ending bucket list around…
