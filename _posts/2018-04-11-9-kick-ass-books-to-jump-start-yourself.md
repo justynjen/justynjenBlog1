@@ -56,9 +56,13 @@ This is a creative thinking self help book by Austin Kleon and has helped me on 
 
 #### The Four Agreements by Don Miguel Ruiz
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/1878424319/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1878424319&linkCode=as2&tag=justynjen07-20&linkId=f3b364a83af8d1e3c9978ea3de462852"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1878424319&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=1878424319" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 A truly enlightening book I recommend everyone read is called The Four Agreements by Don Miguel Ruiz. He outlines four different self attributes that when put together will help you to become the person you have always wanted to be. This book had powerful concepts that, if followed, will help us to love ourselves more, improve our relationships with others and help us to achieve our goals. We can find inner peace that will help us to live our heaven on earth.
 
 #### The Seven Wonders That Will Change Your Life by Glenn Beck and Dr. Keith Ablow
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/1451641532/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451641532&linkCode=as2&tag=justynjen07-20&linkId=ba4d5eb71291b1fed0a39d9a07b95383"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1451641532&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=1451641532" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 This is a unique combination of life experiences from Glenn and keen observation from Dr. Ablow. When you add both insights and experiences, this wonderful book of thought and inspiration was created and can change your life. If you are looking to transform your life in any way, you should pick this book up. It’s sole purpose is to help you reconstruct your thoughts and actions and inspire you with helpful tools to take that first step towards your transformation.
 
