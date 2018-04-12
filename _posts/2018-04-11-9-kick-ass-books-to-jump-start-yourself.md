@@ -20,7 +20,7 @@ I have said before that I love Gretchen Rubin and since I had read her other boo
 
 #### And Still I Rise: A book of Poems by Maya Angelou
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/0394502523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0394502523&linkCode=as2&tag=justynjen07-20&linkId=ee86f3ee1bbecf1567533c186e178a07"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0394502523&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=0394502523" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.com/gp/product/0394502523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0394502523&linkCode=as2&tag=justynjen07-20&linkId=ee86f3ee1bbecf1567533c186e178a07"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0394502523&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=0394502523" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 I can’t say that I am really big into poetry but anything written by Maya Angelou has a way of resonating with a person. “And Still I Rise” is no exception. With these poems you feel her meaning in each line and something will ring true for you. I know Maya Angelou’s poetry helps me think about things in a new light.
 
