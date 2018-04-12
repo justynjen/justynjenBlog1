@@ -32,17 +32,25 @@ I personally feel like I can relate strongly with Anjali Kumar in her book calle
 
 #### The Power of Vulnerability by Brene Brown
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/1604078588/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604078588&linkCode=as2&tag=justynjen07-20&linkId=9407013ab7526c34f8784d0e165fd25d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1604078588&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=1604078588" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 You can’t go wrong with any Brene Brown book but I love this one in particular because it made me look inward to the kind of person I am and how I talk to myself. I am incredibly judgemental to who I am sometimes and that kind of self talk can be extremely detrimental. Brown also helped me realize how I interact with others and the words I use to communicate. She brought so much of my subconscious thoughts and doings to like that I recommend Brene Brown and “The Power of Vulnerability” to all.
 
 #### You are a Badass by Jen Sincero
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/0762447699/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0762447699&linkCode=as2&tag=justynjen07-20&linkId=9b7e1aa3bc2ac1879a616c536976fcac"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0762447699&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=0762447699" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 You could possibly say that reading this book was the most pivotal moment in my determination to make money while I traveled and to be positive in all my thinking. I read it back in November of 2016 and have since read it multiple times. It outlined the life and person I wanted and how I needed to believe to achieve my dreams. This book is for everyone desiring to be a true badass at life. If you get the audible version of this book, Jen Sincero narrates and listening to her is even more inspiring. Get a copy and follow along taking notes in the margins and make it yours.
 
 #### The Alchemist by Paulo Coelho
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/0062315005/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062315005&linkCode=as2&tag=justynjen07-20&linkId=482451620510c6cda77d2c1b6f5bd9d9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0062315005&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=0062315005" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 "The Alchemist" was first written in Portuguese by a Brazilian author named Paulo Coelho but once it became an international best seller it has since been translated into 70 languages. This is a wonderful story of travel and discovery and a story that every person can relate to. We all have a secret dreamer inside of us that can connect to this story of adventure in many ways. I loved it as pleasure book but also as a book to inspire me to always remember that the journey is part of the adventure.
 
 #### Steal like an artist by Austin Kleon
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/0761169253/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761169253&linkCode=as2&tag=justynjen07-20&linkId=9eb4052183173537981c50a6fc2ea865"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0761169253&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=0761169253" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 This is a creative thinking self help book by Austin Kleon and has helped me on many occasions. "Steal Like An Artist" is an easy read and taught me how to better find my creative side. I go through many phases where I feel totally uninspired and not sure what to do next. Kleon presents his ideas in a clean and straightforward way that really help me get back on track and stop stressing the small things that can drive away my creativity. Even if you aren’t looking to write a book or become the next Leonardo, you should let this book help you express your creative side. I believe that being creative can impact all aspects of your life in a positive way.
 
