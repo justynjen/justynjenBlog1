@@ -26,13 +26,13 @@ School Street - With lots of amazing little Alley ways, right in the center of D
 
 ![Boston cupcake shop. My favorite place we went](/uploads/dsc07610.jpg)
 
-![](blob:https://app.cloudcannon.com/1dfb8482-2359-4961-bf74-3c48207070d9)HEAD HERE FOR ALL THE FOOD. Just do it.
+![](/uploads/dsc07638-2.jpg)
 
-![](/uploads/dsc07636.jpg)
+HEAD HERE FOR ALL THE FOOD. Just do it.
 
 ![The North Market in Boston](/uploads/dsc07639.jpg)
 
-![Quincy Market in Boston](/uploads/dsc07638-1.jpg)
+&nbsp;
 
 ![The Boston skyline](/uploads/dsc07640-1.jpg)
 
