@@ -32,6 +32,8 @@ HEAD HERE FOR ALL THE FOOD. Just do it.
 
 ![The North Market in Boston](/uploads/dsc07639.jpg)
 
+![](/uploads/dsc07646.jpg)
+
 ![The Boston skyline](/uploads/dsc07640-1.jpg)
 
 ![The darling green door in Boston](/uploads/dsc07662.jpg)
