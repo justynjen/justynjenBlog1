@@ -14,6 +14,8 @@ Boston is one of the oldest cities in America, and one of the only places that y
 
 Beware, these pictures are going to make you wish you had a trip planned to Boston right away!&nbsp;
 
+![](/uploads/dsc07643.jpg)
+
 ![The cemetery Paul Revere was buried in, in Boston Mass](/uploads/dsc07587.jpg)
 
 This is the cemetery where Paul Revere was buried! This is easily the oldest cemetery that I have visited in America!&nbsp;
