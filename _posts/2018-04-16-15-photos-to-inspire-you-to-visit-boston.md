@@ -46,4 +46,4 @@ This is the seating area inside the market where all the delicious food is. Bost
 
 ![Flowers just down the road from the Paul Revere house in Boston Mass](/uploads/dsc07657-1.jpg)
 
-And just a few spring flowers to brighten the rest of your day! Now get to Boston right away! Let me know all your favorite things to do in Boston! I can't wait to go back.
+And just a few spring flowers to brighten the rest of your day! Now get to Boston right away! Let me know all your favorite things to do in Boston! I can’t wait to go back.
