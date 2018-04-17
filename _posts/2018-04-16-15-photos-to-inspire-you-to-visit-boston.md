@@ -10,13 +10,13 @@ tags:
   - USA
 ---
 
-Boston is one of the oldest cities in America, and one of the only places that you can go that makes you feel some history of our country. This was my first visit and I instantly fell in love. I ate all the corn chowder, got lost along the Freedom Trail and bundled up against the cold with some tasty cupcakes and coffee. Below I have shared with you 15 of my favorite photos from my weekend in Boston. 
+Boston is one of the oldest cities in America, and one of the only places that you can go that makes you feel some history of our country. This was my first visit and I instantly fell in love. I ate all the corn chowder, got lost along the Freedom Trail and bundled up against the cold with some tasty cupcakes and coffee. Below I have shared with you 15 of my favorite photos from my weekend in Boston.&nbsp;
 
-Beware, these pictures are going to make you wish you had a trip planned to Boston right away! 
+Beware, these pictures are going to make you wish you had a trip planned to Boston right away!&nbsp;
 
 ![The cemetery Paul Revere was buried in, in Boston Mass](/uploads/dsc07587.jpg)
 
-This is the cemetery where Paul Revere was buried! This is easily the oldest cemetery that I have visited in America! 
+This is the cemetery where Paul Revere was buried! This is easily the oldest cemetery that I have visited in America!&nbsp;
 
 ![Boston city plaza](/uploads/dsc07619.jpg)
 
@@ -26,9 +26,7 @@ School Street - With lots of amazing little Alley ways, right in the center of D
 
 ![Boston cupcake shop. My favorite place we went](/uploads/dsc07610.jpg)
 
-![](blob:https://app.cloudcannon.com/1dfb8482-2359-4961-bf74-3c48207070d9)
-
-HEAD HERE FOR ALL THE FOOD. Just do it.
+![](blob:https://app.cloudcannon.com/1dfb8482-2359-4961-bf74-3c48207070d9)HEAD HERE FOR ALL THE FOOD. Just do it.
 
 ![](/uploads/dsc07636.jpg)
 
@@ -42,13 +40,13 @@ HEAD HERE FOR ALL THE FOOD. Just do it.
 
 ![A quiet little alley way in Boston](/uploads/dsc07642.jpg)
 
-This awesome little alley was blocked off to cars, perfect for wandering down for some peace and quiet. 
+This awesome little alley was blocked off to cars, perfect for wandering down for some peace and quiet.&nbsp;
 
 ![The Administrative building in Boston Mass](/uploads/dsc07643.jpg)
 
 ![The adorable bookshop I went looking for postcards in, in Boston.](blob:https://app.cloudcannon.com/29cacb9f-dfd1-434c-8d8e-b7ef59529c75)
 
-This was an adorable little bookstore, right across the street from the Paul Revere house. I ran in to buy some Artsy postcards and look at all the books. 
+This was an adorable little bookstore, right across the street from the Paul Revere house. I ran in to buy some Artsy postcards and look at all the books.&nbsp;
 
 ![The inside seating area of the Quincey Market in Boston](/uploads/dsc07665.jpg)
 
