@@ -30,8 +30,6 @@ School Street - With lots of amazing little Alley ways, right in the center of D
 
 HEAD HERE FOR ALL THE FOOD. Just do it.
 
-&nbsp;
-
 ![The North Market in Boston](/uploads/dsc07639.jpg)
 
 ![The Boston skyline](/uploads/dsc07640-1.jpg)
