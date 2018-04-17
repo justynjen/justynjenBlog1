@@ -32,8 +32,6 @@ HEAD HERE FOR ALL THE FOOD. Just do it.
 
 ![The North Market in Boston](/uploads/dsc07639.jpg)
 
-&nbsp;
-
 ![The Boston skyline](/uploads/dsc07640-1.jpg)
 
 ![The darling green door in Boston](/uploads/dsc07662.jpg)
@@ -43,10 +41,6 @@ HEAD HERE FOR ALL THE FOOD. Just do it.
 This awesome little alley was blocked off to cars, perfect for wandering down for some peace and quiet.&nbsp;
 
 ![](/uploads/dsc07643-1.jpg)
-
-&nbsp;
-
-This was an adorable little bookstore, right across the street from the Paul Revere house. I ran in to buy some Artsy postcards and look at all the books.&nbsp;
 
 ![](/uploads/dsc07665-1.jpg)
 
