@@ -42,7 +42,7 @@ This awesome little alley was blocked off to cars, perfect for wandering down fo
 
 ![](/uploads/dsc07665-1.jpg)
 
-This is the seating area inside the market where all the delicious food is. Boston was a winner when it came to food!
+![](/uploads/quincy-market-2.jpg)
 
 ![Flowers just down the road from the Paul Revere house in Boston Mass](/uploads/dsc07657-1.jpg)
 
