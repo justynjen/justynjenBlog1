@@ -32,7 +32,7 @@ School Street - With lots of amazing little Alley ways, right in the center of D
 
 ![The North Market in Boston](/uploads/dsc07639.jpg)
 
-![Quincy Market in Boston](blob:https://app.cloudcannon.com/eaf680f3-b2d3-4415-a1c0-6f11180407fb)
+![Quincy Market in Boston](/uploads/dsc07638-1.jpg)
 
 ![The Boston skyline](/uploads/dsc07640-1.jpg)
 
