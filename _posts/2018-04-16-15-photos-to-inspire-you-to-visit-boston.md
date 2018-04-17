@@ -18,6 +18,8 @@ Beware, these pictures are going to make you wish you had a trip planned to Bost
 
 This is the cemetery where Paul Revere was buried! This is easily the oldest cemetery that I have visited in America!&nbsp;
 
+![](/uploads/dsc07636-1.jpg)
+
 ![Boston city plaza](/uploads/dsc07619.jpg)
 
 ![](/uploads/dsc07599.jpg)
