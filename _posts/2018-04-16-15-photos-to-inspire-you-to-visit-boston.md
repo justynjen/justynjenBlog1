@@ -10,13 +10,13 @@ tags:
   - USA
 ---
 
-Boston is one of the oldest cities in America, and one of the only places that you can go that makes you feel some history of our country. This was my first visit and I instantly fell in love. I ate all the corn chowder, got lost along the Freedom Trail and bundled up against the cold with some tasty cupcakes and coffee. Below I have shared with you 15 of my favorite photos from my weekend in Boston.&nbsp;
+Boston is one of the oldest cities in America, and one of the only places that you can go that makes you feel some history of our country. This was my first visit and I instantly fell in love. I ate all the corn chowder, got lost along the Freedom Trail and bundled up against the cold with some tasty cupcakes and coffee. Below I have shared with you 15 of my favorite photos from my weekend in Boston. 
 
-Beware, these pictures are going to make you wish you had a trip planned to Boston right away!&nbsp;
+Beware, these pictures are going to make you wish you had a trip planned to Boston right away! 
 
 ![The cemetery Paul Revere was buried in, in Boston Mass](/uploads/dsc07587.jpg)
 
-This is the cemetery where Paul Revere was buried! This is easily the oldest cemetery that I have visited in America!&nbsp;
+This is the cemetery where Paul Revere was buried! This is easily the oldest cemetery that I have visited in America! 
 
 ![Boston city plaza](/uploads/dsc07619.jpg)
 
@@ -42,13 +42,13 @@ HEAD HERE FOR ALL THE FOOD. Just do it.
 
 ![A quiet little alley way in Boston](/uploads/dsc07642.jpg)
 
-This awesome little alley was blocked off to cars, perfect for wandering down for some peace and quiet.&nbsp;
+This awesome little alley was blocked off to cars, perfect for wandering down for some peace and quiet. 
 
 ![The Administrative building in Boston Mass](/uploads/dsc07643.jpg)
 
 ![The adorable bookshop I went looking for postcards in, in Boston.](blob:https://app.cloudcannon.com/29cacb9f-dfd1-434c-8d8e-b7ef59529c75)
 
-This was an adorable little bookstore, right across the street from the Paul Revere house. I ran in to buy some Artsy postcards and look at all the books.&nbsp;
+This was an adorable little bookstore, right across the street from the Paul Revere house. I ran in to buy some Artsy postcards and look at all the books. 
 
 ![The inside seating area of the Quincey Market in Boston](/uploads/dsc07665.jpg)
 
@@ -56,4 +56,4 @@ This is the seating area inside the market where all the delicious food is. Bost
 
 ![Flowers just down the road from the Paul Revere house in Boston Mass](/uploads/dsc07657-1.jpg)
 
-And just a few spring flowers to brighten the rest of your day! Now get to Boston right away! Let me know all your favorite things to do in Boston! I can't wait to go back.&nbsp;
+And just a few spring flowers to brighten the rest of your day! Now get to Boston right away! Let me know all your favorite things to do in Boston! I can't wait to go back.
