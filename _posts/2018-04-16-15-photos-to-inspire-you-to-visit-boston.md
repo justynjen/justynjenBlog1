@@ -42,13 +42,13 @@ HEAD HERE FOR ALL THE FOOD. Just do it.
 
 This awesome little alley was blocked off to cars, perfect for wandering down for some peace and quiet.&nbsp;
 
-![The Administrative building in Boston Mass](/uploads/dsc07643.jpg)
+![](/uploads/dsc07643-1.jpg)
 
-![The adorable bookshop I went looking for postcards in, in Boston.](blob:https://app.cloudcannon.com/29cacb9f-dfd1-434c-8d8e-b7ef59529c75)
+&nbsp;
 
 This was an adorable little bookstore, right across the street from the Paul Revere house. I ran in to buy some Artsy postcards and look at all the books.&nbsp;
 
-![The inside seating area of the Quincey Market in Boston](/uploads/dsc07665.jpg)
+![](/uploads/dsc07665-1.jpg)
 
 This is the seating area inside the market where all the delicious food is. Boston was a winner when it came to food!
 
